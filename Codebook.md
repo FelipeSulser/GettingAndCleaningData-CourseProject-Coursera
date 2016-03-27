@@ -8,7 +8,7 @@ This repository focuses on the script `run_analysis.R` that performs some action
 * Regarding the whole dataset, we correct labels with bad names.
 * Finally, we generate a new dataset with all the average measures for each subject and activity type. The result is a file called `average_values.txt`, and uploaded to this repository.
 
-# Variables
+# Data and Variables
 
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.
 * `x_data`, `y_data` and `subject_data` merge the previous datasets to further analysis.
