@@ -1,5 +1,5 @@
 # Code Book
-
+# Introduction
 This repository focuses on the script `run_analysis.R` that performs some actions regarding the dataset (explained in the Coursera course)
 
 * In the beginning we merge train and data set into a single table, all the data is merged using the `rbind()` function. 
